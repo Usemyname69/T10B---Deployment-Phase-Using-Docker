@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "chhJxc/LNsw=",
+  "dgSpecHash": "IIztDYfEu+M=",
   "success": true,
-  "projectFilePath": "/home/pseudomortus/repos/T10B – Deployment Phase Using Docker/ContainerizationTest/ContainerizationTest.csproj",
+  "projectFilePath": "C:\\Users\\DonaldRippy\\Documents\\GitHub\\T10B---Deployment-Phase-Using-Docker\\ContainerizationTest\\ContainerizationTest.csproj",
   "expectedPackageFiles": [
-    "/root/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.13/microsoft.aspnetcore.app.internal.assets.10.0.13.nupkg.sha512"
+    "C:\\Users\\DonaldRippy\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
   ],
   "logs": []
 }
